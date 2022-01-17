@@ -1,6 +1,6 @@
 # TRADING-SYSTEM
 
-Reading csv files to plot the charts and do calculations to compute daily return, monthly return from the data, using data structure.
+Plotting and computing daily return, monthly return from the data, using data structure.
 Creating an order book builder for  trading system. 3 venues are used : ARCA, EDGX, NYSE.
 We get the orders coming from the different exchanges and my class BookBuilder is capable to handle the market data coming one by one and build a book for each side. 
 Configure	the	airline	industry stocks.
