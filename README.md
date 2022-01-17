@@ -7,4 +7,4 @@ Configure	the	airline	industry stocks.
 Using the Information that Southwest has a lag of a few days I create a crossover trading strateegy to make money out of this information.
 Incorporating all the above to develop a Trading System.
 
-https://imgflip.com/gif/61jh92
+<a href="https://imgflip.com/gif/61jh92">via Imgflip</a></p></div>
