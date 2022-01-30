@@ -1,0 +1,26 @@
+IN SAMPLE (start = '2014-06-02', end='2016-06-13')
+
+Simple Crossover
+total PnL :52.44049999999697
+sharpeRatio : 0.3305645781377345
+maximum daily drawdown is : -0.8177432439995181
+
+Modified Crossover
+total PnL :146.4265000000014
+sharpeRatio : 1.5231781604343206
+maximum daily drawdown is : 0.8177432439995181 = 81%
+
+
+
+Out of sample(start = '2016-06-13', end='2016-12-13')
+
+Simple Crossover
+total PnL :-26.947402954101562
+sharpeRatio : -0.5594714953948494
+maximum daily drawdown is : -0.1769337099861954
+
+Modified Crossover
+total PnL :26.092147827148438
+sharpeRatio : 0.44229656305305703
+maximum daily drawdown is : -0.1769337099861954
+
